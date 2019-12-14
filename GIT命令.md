@@ -22,6 +22,17 @@
 
 ####  git remote add origin “git路径”
 
-### 管理远程
+### 关闭远程
 
 ####  git remote remove origin 
+
+### 推送到分支 
+
+#### git push -u origin master
+
+### 将服务器项目于本地项目合并 -- 拉
+
+#### git pull --rebase
+
+
+
