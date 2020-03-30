@@ -36,3 +36,31 @@
 
 
 
+### 查看当前分支
+
+#### git beanch
+
+### 查看远程分支
+
+#### git beanch -r
+
+
+
+### 查看本地所有分支
+
+#### git branch -a
+
+### 切换本地分支
+
+#### git checkout -b myRelease 
+
+
+
+下拉
+
+ git pull origin master 
+
+上传
+
+## git push origin master
+
